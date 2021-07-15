@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="add">Добавить</string>
+    <string name="clear">Очистить</string>
+    <string name="update">Изменить</string>
+    <string name="delete">Удалить</string>
+
+
+</menu>
